@@ -13,7 +13,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\zeref\IdeaProjects\web_qart\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kiuPpBfcB6nFNNJXcXF4AyG9Ix" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -61,7 +71,30 @@
       <option name="presentableId" value="Default" />
       <updated>1606119868416</updated>
       <workItem from="1606119870305" duration="1434000" />
+      <workItem from="1606195742886" duration="388000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1606145232049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145232049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1606145415248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145415248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1606145750476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145750476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,10 +105,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
