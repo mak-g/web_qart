@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-
+import React,{useState} from "react";
+import LoginPage from './Components/LoginPage';
 function App() {
+    const[state,setState]=useState(<LoginPage onChange={(value =>{setState(value)})}/>)
   return (
     <div className="App">
-    Hello world
-      
+        {state}
     </div>
   );
 }
-
 export default App;
