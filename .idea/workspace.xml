@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed8339f-8494-4cce-b986-9b365cfc355e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mid_sem_report/Delete_this_file_and_add_mid_sem_report" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
       </set>
     </option>
   </component>
+  <component name="ProjectId" id="1kiuPpBfcB6nFNNJXcXF4AyG9Ix" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -70,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606119868416</updated>
       <workItem from="1606119870305" duration="1434000" />
+      <workItem from="1606195742886" duration="388000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1606145232049</created>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606145415248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1606145750476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145750476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
